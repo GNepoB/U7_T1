@@ -5,7 +5,7 @@ Gabriel Neponuceno Batista
 
 ## 📺 Demonstração + Instruções de uso
 
-- **Simulação no Wokwi:** [Assista no YouTube]()
+- **Simulação no Wokwi:** [Assista no YouTube](https://www.youtube.com/watch?v=pyIGGnow8kM&ab_channel=GABRIELNEPONUCENOBATISTA)
 
 ## Funcionalidades do Projeto
 
